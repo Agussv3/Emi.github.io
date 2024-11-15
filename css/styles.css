@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d-item{
+    height: 500px;
+ }
+
+ .d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+ }
+ .navc{
+    background-color: #9DA987;
+ }
+
+ .navc ul li a {
+    color: #16181E;
+ }
+
+.marcogrid{
+   margin-top: 15px;
+}
+
+ .imggrid{
+   height: 250px;
+ }
